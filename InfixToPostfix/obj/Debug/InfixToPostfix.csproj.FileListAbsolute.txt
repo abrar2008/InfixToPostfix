@@ -1,0 +1,10 @@
+E:\BIIT\Data Structures\Lectures\Code Lectures\InfixToPostfix\InfixToPostfix\obj\Debug\ResolveAssemblyReference.cache
+E:\BIIT\Data Structures\Lectures\Code Lectures\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+E:\BIIT\Data Structures\Lectures\Code Lectures\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+E:\BIIT\Data Structures\Lectures\Code Lectures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+E:\BIIT\Data Structures\Lectures\Code Lectures\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
+F:\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe.config
+F:\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.exe
+F:\InfixToPostfix\InfixToPostfix\bin\Debug\InfixToPostfix.pdb
+F:\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.exe
+F:\InfixToPostfix\InfixToPostfix\obj\Debug\InfixToPostfix.pdb
